@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/gitmapp/3D-Raycaster/Content/arial.spritefont","C:/gitmapp/3D-Raycaster/Content/bin/DesktopGL/Content/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,1,8757101
+"C:/gitmapp/3D-Raycaster/Content/boll.png","C:/gitmapp/3D-Raycaster/Content/bin/DesktopGL/Content/boll.xnb","TextureProcessor","Texture2DContent",173,1685,0,616373

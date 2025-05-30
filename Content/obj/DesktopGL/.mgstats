@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/thools0731/source/repos/raycast testing/Content/../../../../Downloads/ray.png","C:/Users/thools0731/source/repos/raycast testing/Content/bin/DesktopGL/ray.xnb","TextureProcessor","Texture2DContent",354,185,0,8934774
+"C:/Users/thools0731/source/repos/raycast testing/Content/arial.spritefont","C:/Users/thools0731/source/repos/raycast testing/Content/bin/DesktopGL/arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,3166373
+"C:/Users/thools0731/source/repos/raycast testing/Content/boll.png","C:/Users/thools0731/source/repos/raycast testing/Content/bin/DesktopGL/boll.xnb","TextureProcessor","Texture2DContent",173,1685,0,0158543
